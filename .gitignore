@@ -1,0 +1,5 @@
+/Inbox/node_modules/
+/Lottery/node_modules/
+.vs
+package-lock.json
+/fundraiser-react-dApp/package-lock.json
